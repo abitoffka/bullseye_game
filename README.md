@@ -17,7 +17,7 @@ Enjoy a relaxing background and immersive sound effects.
 
 ## Installation
 
-Clone the repository: git clone https://github.com/yourusername/bulls-eye-game.git
+Clone the repository: git clone https://github.com/abitoffka/bullseye_game.git
 Open the project in Xcode.
 Build and run the app on your iOS device or simulator.
 
