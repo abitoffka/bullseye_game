@@ -8,12 +8,6 @@ https://github.com/abitoffka/bullseye_game/assets/96001315/ed55da7f-ba46-43b2-a6
 
 Welcome to Bull's Eye, a fun and challenging game created using SwiftUI! The objective of the game is to slide the slider as close as possible to the target value and score maximum points. Test your precision and accuracy in this exciting game!
 
-## Screenshots
-
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-20 at 00 05 35](https://github.com/abitoffka/bullseye_game/assets/96001315/605648cc-3653-4255-9efe-c92ed572e746)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-20 at 00 05 50](https://github.com/abitoffka/bullseye_game/assets/96001315/e0adb5e1-15ad-4cea-b96d-d07000a79b01)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-20 at 00 05 55](https://github.com/abitoffka/bullseye_game/assets/96001315/0660bde0-fd9d-4882-9f45-208a97e67379)
-
 ## Features
 
 Simple and intuitive user interface.
